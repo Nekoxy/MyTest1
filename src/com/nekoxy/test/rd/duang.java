@@ -3,8 +3,10 @@ import com.nekoxy.test.rd.*;
 public class duang {
 
 	public static void main(String[] args) {
-		// TODO ×Ô¶¯Éú³ÉµÄ·½·¨´æ¸ù
+		// TODO ï¿½Ô¶ï¿½ï¿½ï¿½ÉµÄ·ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
 		Random rd=new Random();
+		rd.duang();
+		//sssss
 		rd.duang();
 	}
 
