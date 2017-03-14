@@ -6,7 +6,7 @@ public class duang {
 		// TODO �Զ���ɵķ������
 		Random rd=new Random();
 		rd.duang();
-		//sssss
+		//sssss11112222233366
 		rd.duang();
 	}
 
